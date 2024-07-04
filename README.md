@@ -1,4 +1,6 @@
-## Hi there 👋
+## Salut
+
+Learning statistics and R every day.
 
 <!--
 **Pickoffs/Pickoffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
